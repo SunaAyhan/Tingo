@@ -8,6 +8,7 @@ if(keyboard_check_pressed(vk_enter))
 		case rm_baslangic:
 		room_goto(rm_oyun7);
 		break;
+		
 		case rm_kaybetme:
 		case rm_kazanma:
 			game_restart();
