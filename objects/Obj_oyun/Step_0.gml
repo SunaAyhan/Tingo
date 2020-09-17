@@ -6,7 +6,7 @@ if(keyboard_check_pressed(vk_enter))
 	switch(room)
 	{
 		case rm_baslangic:
-		room_goto(rm_oyun7);
+		room_goto(rm_oyun3);
 		break;
 		
 		case rm_kaybetme:
