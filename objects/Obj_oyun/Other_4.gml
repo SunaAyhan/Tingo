@@ -1,0 +1,1 @@
+audio_play_sound(_No_Copyright_Music_______________bgm___funny___cute__,1,true);
