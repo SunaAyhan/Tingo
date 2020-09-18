@@ -1,1 +1,1 @@
-path_start(Path16,4,0,1);
+path_start(Path16,2,0,1);
