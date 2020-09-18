@@ -9,7 +9,6 @@ draw_set_halign(fa_center);
 
 var r = c_purple;
 draw_text_transformed_color(room_width/2,250, "TINGO",3,3,0,r,r,r,r,1)
-draw_text(room_width/2,400,"OYUNA BASLAMAK ICIN ENTER'A BAS");
 draw_set_halign(fa_left);
 
 break;

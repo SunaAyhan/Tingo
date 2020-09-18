@@ -64,7 +64,6 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_ari","path":"objects/obj_ari/obj_ari.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.4074074,"scaleY":0.496063,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":288.0,"resourceVersion":"1.0","name":"inst_5C5D5998","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":700,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_8","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_","path":"objects/Obj_/Obj_.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":1504.0,"resourceVersion":"1.0","name":"inst_40352553","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin","path":"objects/Obj_altin/Obj_altin.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7,"scaleY":0.6666667,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":1696.0,"resourceVersion":"1.0","name":"inst_5CBC7551","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin","path":"objects/Obj_altin/Obj_altin.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7,"scaleY":0.6666667,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":1696.0,"resourceVersion":"1.0","name":"inst_1D5B4750","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin","path":"objects/Obj_altin/Obj_altin.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7,"scaleY":0.6666667,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":1696.0,"resourceVersion":"1.0","name":"inst_5C934029","tags":[],"resourceType":"GMRInstance",},
@@ -314,7 +313,6 @@
     {"name":"inst_35D04BCA","path":"rooms/rm_oyun3/rm_oyun3.yy",},
     {"name":"inst_5CEDD202","path":"rooms/rm_oyun3/rm_oyun3.yy",},
     {"name":"inst_7F6AED97","path":"rooms/rm_oyun3/rm_oyun3.yy",},
-    {"name":"inst_40352553","path":"rooms/rm_oyun3/rm_oyun3.yy",},
     {"name":"inst_5CBC7551","path":"rooms/rm_oyun3/rm_oyun3.yy",},
     {"name":"inst_1D5B4750","path":"rooms/rm_oyun3/rm_oyun3.yy",},
     {"name":"inst_5C934029","path":"rooms/rm_oyun3/rm_oyun3.yy",},
@@ -447,8 +445,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "theme1",
+    "path": "folders/Rooms/theme1.yy",
   },
   "resourceVersion": "1.0",
   "name": "rm_oyun3",

@@ -15,7 +15,7 @@ if(keyboard_check_pressed(vk_enter))
 			break;
      }
 }
-if (room==rm_oyun)
+if (room==rm_oyun1)
 {
 	if(score==100)
 	{
@@ -28,8 +28,8 @@ if (room==rm_oyun)
 }
 if (room==rm_kazanma)
 {
-if (keyboard_check_pressed(vk_enter))
+/*if (keyboard_check_pressed(vk_enter))
 {
 room_goto(rm_oyun3)
-}
+}*/
 }
