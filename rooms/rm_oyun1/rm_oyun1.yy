@@ -13,7 +13,10 @@
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
   ],
   "layers": [
-    {"assets":[],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_12","tags":[],"resourceType":"GMRAssetLayer",},
+    {"assets":[
+        {"spriteId":{"name":"tree","path":"sprites/tree/tree.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":800.0,"y":768.0,"resourceVersion":"1.0","name":"graphic_39762259","tags":[],"resourceType":"GMRSpriteGraphic",},
+        {"spriteId":{"name":"bunny","path":"sprites/bunny/bunny.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":4.0,"scaleY":3.82352924,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":224.0,"resourceVersion":"1.0","name":"graphic_24B99F73","tags":[],"resourceType":"GMRSpriteGraphic",},
+      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_12","tags":[],"resourceType":"GMRAssetLayer",},
     {"assets":[
         {"spriteId":{"name":"Spr_agac4","path":"sprites/Spr_agac4/Spr_agac4.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":263.0,"y":456.0,"resourceVersion":"1.0","name":"graphic_5A65E4EB","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"Spr_agac4","path":"sprites/Spr_agac4/Spr_agac4.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":191.0,"y":414.0,"resourceVersion":"1.0","name":"graphic_C4B7062","tags":[],"resourceType":"GMRSpriteGraphic",},
