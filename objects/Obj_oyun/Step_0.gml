@@ -5,31 +5,25 @@ if(keyboard_check_pressed(vk_enter))
 {
 	switch(room)
 	{
-		case rm_baslangic:
-		room_goto(rm_oyun);
-		break;
-		
 		case rm_kaybetme:
+			game_restart();
+			break;
 		case rm_kazanma:
 			game_restart();
 			break;
      }
 }
-if (room==rm_oyun1)
+if (string_delete(string( room_get_name(room)),8,2)=="rm_oyun")
 {
-	if(score==100)
+	if(!instance_exists(Obj_altin))
 	{
+		curlevel = string_delete(string( room_get_name(room)),1,7);
+		show_debug_message(curlevel);
+		LevelPassed(curlevel,global.timer/60);
 		room_goto(rm_kazanma);
 	}
 	if (lives<=0)
 	{
 		room_goto(rm_kaybetme);
 	}
-}
-if (room==rm_kazanma)
-{
-/*if (keyboard_check_pressed(vk_enter))
-{
-room_goto(rm_oyun3)
-}*/
 }

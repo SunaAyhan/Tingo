@@ -3,7 +3,7 @@
 function IsUnlocked(level){
 	if (file_exists("data.sv")){
 		ini_open("data.sv");
-		var res = ini_read_real("level"+string(level),"is_passed",false);
+		var res = ini_read_real("level"+string(level),"is_unlocked",false);
 		ini_close();
 		return res;
 	}
