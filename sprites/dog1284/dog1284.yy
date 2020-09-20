@@ -200,7 +200,7 @@
     "eventStubScript": null,
     "parent": {"name":"dog1284","path":"sprites/dog1284/dog1284.yy",},
     "resourceVersion": "1.3",
-    "name": "dog1",
+    "name": "dog1284",
     "tags": [],
     "resourceType": "GMSequence",
   },

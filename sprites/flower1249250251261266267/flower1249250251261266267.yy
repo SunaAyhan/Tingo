@@ -60,7 +60,7 @@
     "eventStubScript": null,
     "parent": {"name":"flower1249250251261266267","path":"sprites/flower1249250251261266267/flower1249250251261266267.yy",},
     "resourceVersion": "1.3",
-    "name": "flower1249250251261",
+    "name": "flower1249250251261266267",
     "tags": [],
     "resourceType": "GMSequence",
   },
