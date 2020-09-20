@@ -36,7 +36,7 @@
         7,
         5,
         0,
-      ],"closed_edge":false,"resourceVersion":"1.0","name":"autotile_1","tags":[],"resourceType":"GMAutoTileSet",},
+      ],"closed_edge":true,"resourceVersion":"1.0","name":"autotile_1","tags":[],"resourceType":"GMAutoTileSet",},
   ],
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
