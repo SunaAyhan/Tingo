@@ -159,8 +159,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "theme4",
-    "path": "folders/Rooms/theme4.yy",
+    "name": "theme3",
+    "path": "folders/Rooms/theme3.yy",
   },
   "resourceVersion": "1.0",
   "name": "rm_oyun16",
