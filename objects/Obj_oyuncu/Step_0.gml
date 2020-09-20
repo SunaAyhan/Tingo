@@ -5,7 +5,7 @@ var qx = sprite_get_xoffset(q);
 var qy = sprite_get_yoffset(q);
 my_bbox_left =  x + (sprite_get_bbox_left(q) - qx) * image_xscale;
 my_bbox_right = x + (sprite_get_bbox_right(q) - qx) * image_xscale;
-my_bbox_top =  (y + (sprite_get_bbox_top(q) - qy) * image_yscale)-15;
+my_bbox_top =  (y + (sprite_get_bbox_top(q) - qy) * image_yscale);
 my_bbox_bottom = (y + (sprite_get_bbox_bottom(q) - qy) * image_yscale)+10;
 // flip L/R or T/B on negative scales:
 if (image_xscale < 0) {
