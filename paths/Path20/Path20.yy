@@ -14,8 +14,8 @@
     {"speed":100.0,"x":111.837891,"y":-40.5714722,},
   ],
   "parent": {
-    "name": "tingo",
-    "path": "tingo.yyp",
+    "name": "Paths",
+    "path": "folders/Paths.yy",
   },
   "resourceVersion": "1.0",
   "name": "Path20",

@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"abed6619-f705-4be3-a6a8-c5a9b2bcf884","path":"sprites/resume/resume.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"abed6619-f705-4be3-a6a8-c5a9b2bcf884","path":"sprites/resume/resume.yy",},"LayerId":{"name":"db4b2f49-add4-44e3-a70b-e7ca43cf2320","path":"sprites/resume/resume.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"resume","path":"sprites/resume/resume.yy",},"resourceVersion":"1.0","name":"abed6619-f705-4be3-a6a8-c5a9b2bcf884","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4b6f5832-45f7-4436-a1de-4ce8e28c92a2","path":"sprites/resume/resume.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4b6f5832-45f7-4436-a1de-4ce8e28c92a2","path":"sprites/resume/resume.yy",},"LayerId":{"name":"9187b0c7-8fb2-4922-a3f7-d0b81e316f8f","path":"sprites/resume/resume.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"resume","path":"sprites/resume/resume.yy",},"resourceVersion":"1.0","name":"4b6f5832-45f7-4436-a1de-4ce8e28c92a2","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"resume","path":"sprites/resume/resume.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"3de7ccad-d457-46a1-b4ea-3d49d93d21ac","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"abed6619-f705-4be3-a6a8-c5a9b2bcf884","path":"sprites/resume/resume.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7a4a75a6-2bfa-420d-8845-b8cd2a4b685c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4b6f5832-45f7-4436-a1de-4ce8e28c92a2","path":"sprites/resume/resume.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,11 +65,11 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"db4b2f49-add4-44e3-a70b-e7ca43cf2320","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9187b0c7-8fb2-4922-a3f7-d0b81e316f8f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "tingo",
-    "path": "tingo.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "resume",
