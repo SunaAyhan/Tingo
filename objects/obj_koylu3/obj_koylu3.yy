@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_dusman7",
-    "path": "sprites/Spr_dusman7/Spr_dusman7.yy",
+    "name": "Spr_koylu2",
+    "path": "sprites/Spr_koylu2/Spr_koylu2.yy",
   },
   "solid": false,
   "visible": true,

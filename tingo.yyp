@@ -245,6 +245,7 @@
     {"id":{"name":"Spr_agaccam","path":"sprites/Spr_agaccam/Spr_agaccam.yy",},"order":26,},
     {"id":{"name":"Obj_play","path":"objects/Obj_play/Obj_play.yy",},"order":52,},
     {"id":{"name":"Spr_kardekor3","path":"sprites/Spr_kardekor3/Spr_kardekor3.yy",},"order":14,},
+    {"id":{"name":"Sprite333","path":"sprites/Sprite333/Sprite333.yy",},"order":0,},
     {"id":{"name":"r_level_select_menu","path":"rooms/r_level_select_menu/r_level_select_menu.yy",},"order":4,},
     {"id":{"name":"Spr_cimen_kose","path":"sprites/Spr_cimen_kose/Spr_cimen_kose.yy",},"order":0,},
     {"id":{"name":"obj_ev","path":"objects/obj_ev/obj_ev.yy",},"order":3,},
