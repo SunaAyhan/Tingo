@@ -183,6 +183,7 @@
     {"id":{"name":"deve","path":"sprites/deve/deve.yy",},"order":27,},
     {"id":{"name":"TileSet12","path":"tilesets/TileSet12/TileSet12.yy",},"order":13,},
     {"id":{"name":"Path45","path":"paths/Path45/Path45.yy",},"order":40,},
+    {"id":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"order":0,},
     {"id":{"name":"Path43","path":"paths/Path43/Path43.yy",},"order":38,},
     {"id":{"name":"Spr_taskar211212","path":"sprites/Spr_taskar211212/Spr_taskar211212.yy",},"order":72,},
     {"id":{"name":"GetMaxTime","path":"scripts/GetMaxTime/GetMaxTime.yy",},"order":2,},
@@ -640,6 +641,7 @@
     {"folderPath":"folders/Sprites/dusman1.yy","order":42,"resourceVersion":"1.0","name":"dusman1","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/dusman2.yy","order":49,"resourceVersion":"1.0","name":"dusman2","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/power up.yy","order":67,"resourceVersion":"1.0","name":"power up","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Dusman.yy","order":68,"resourceVersion":"1.0","name":"Dusman","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
