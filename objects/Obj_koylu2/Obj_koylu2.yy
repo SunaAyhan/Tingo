@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Spr_koylu2",
-    "path": "sprites/Spr_koylu2/Spr_koylu2.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

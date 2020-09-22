@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_dusman7",
-    "path": "sprites/Spr_dusman7/Spr_dusman7.yy",
+    "name": "onden_yurume",
+    "path": "sprites/onden_yurume/onden_yurume.yy",
   },
   "solid": false,
   "visible": true,
