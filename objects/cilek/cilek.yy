@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spr_building4",
-    "path": "sprites/spr_building4/spr_building4.yy",
+    "name": "Spr_cbugday",
+    "path": "sprites/Spr_cbugday/Spr_cbugday.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_parent",
-    "path": "objects/Obj_parent/Obj_parent.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "obj_evler",
-    "path": "folders/Objects/obj_evler.yy",
+    "name": "power up",
+    "path": "folders/Objects/power up.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_ev4",
+  "name": "cilek",
   "tags": [],
   "resourceType": "GMObject",
 }

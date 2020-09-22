@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_meyve",
+    "path": "sprites/Spr_meyve/Spr_meyve.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "power up",
+    "path": "folders/Objects/power up.yy",
   },
   "resourceVersion": "1.0",
-  "name": "dusman",
+  "name": "karpuz",
   "tags": [],
   "resourceType": "GMObject",
 }

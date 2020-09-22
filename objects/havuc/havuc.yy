@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spr_building3",
-    "path": "sprites/spr_building3/spr_building3.yy",
+    "name": "Spr_c",
+    "path": "sprites/Spr_c/Spr_c.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_parent",
-    "path": "objects/Obj_parent/Obj_parent.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "obj_evler",
-    "path": "folders/Objects/obj_evler.yy",
+    "name": "power up",
+    "path": "folders/Objects/power up.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_ev3",
+  "name": "havuc",
   "tags": [],
   "resourceType": "GMObject",
 }

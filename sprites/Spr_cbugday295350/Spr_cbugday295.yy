@@ -60,7 +60,7 @@
     "eventStubScript": null,
     "parent": {"name":"Spr_cbugday295","path":"sprites/Spr_cbugday295/Spr_cbugday295.yy",},
     "resourceVersion": "1.3",
-    "name": "Spr_cbugday295",
+    "name": "Spr_cbugday",
     "tags": [],
     "resourceType": "GMSequence",
   },
