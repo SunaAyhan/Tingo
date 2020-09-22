@@ -1,1 +1,1 @@
-audio_play_sound(_No_Copyright_Music_______________bgm___funny___cute__,1,true);
+audio_play_sound(happy__1_,1,true);
