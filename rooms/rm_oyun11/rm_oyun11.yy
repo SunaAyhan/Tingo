@@ -19,10 +19,6 @@
     {"instances":[],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_4","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_kardanadam","path":"objects/Obj_kardanadam/Obj_kardanadam.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.98969078,"scaleY":2.16363645,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":736.0,"y":160.0,"resourceVersion":"1.0","name":"inst_58FB8F2","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_dusman24","path":"objects/obj_dusman24/obj_dusman24.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.107569724,"scaleY":0.118760757,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":160.0,"resourceVersion":"1.0","name":"inst_4660B82D","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_dusman2451","path":"objects/obj_dusman2451/obj_dusman2451.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.107569724,"scaleY":0.118760757,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":416.0,"resourceVersion":"1.0","name":"inst_2778008D","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_dusman245152","path":"objects/obj_dusman245152/obj_dusman245152.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.107569724,"scaleY":0.118760757,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":448.0,"resourceVersion":"1.0","name":"inst_97A8067","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_dusman24515253","path":"objects/obj_dusman24515253/obj_dusman24515253.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.107569724,"scaleY":0.118760757,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":896.0,"resourceVersion":"1.0","name":"inst_5B6EE6FF","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_3","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Spr_agac7k","path":"sprites/Spr_agac7k/Spr_agac7k.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1216.00012,"y":160.0,"resourceVersion":"1.0","name":"graphic_6499A250","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -263,10 +259,6 @@
     {"name":"inst_2A9AF8EE","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_100E7875","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_58FB8F2","path":"rooms/rm_oyun11/rm_oyun11.yy",},
-    {"name":"inst_4660B82D","path":"rooms/rm_oyun11/rm_oyun11.yy",},
-    {"name":"inst_2778008D","path":"rooms/rm_oyun11/rm_oyun11.yy",},
-    {"name":"inst_97A8067","path":"rooms/rm_oyun11/rm_oyun11.yy",},
-    {"name":"inst_5B6EE6FF","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_502EFAD6","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_418E5C4F","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_486A67A","path":"rooms/rm_oyun11/rm_oyun11.yy",},

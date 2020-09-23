@@ -1,1 +1,0 @@
-path_start(Path17,2,0,1);

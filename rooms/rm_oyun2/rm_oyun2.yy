@@ -151,11 +151,7 @@
         {"spriteId":{"name":"flower1268","path":"sprites/flower1268/flower1268.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.86457682,"scaleY":2.370287,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":738.9686,"y":209.294876,"resourceVersion":"1.0","name":"graphic_5FDFC2F8","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"flower1268","path":"sprites/flower1268/flower1268.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.86457682,"scaleY":2.370287,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":791.5205,"y":249.589752,"resourceVersion":"1.0","name":"graphic_693D6969","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":900,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_13","tags":[],"resourceType":"GMRAssetLayer",},
-    {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_koylu4","path":"objects/obj_koylu4/obj_koylu4.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7172057,"scaleY":0.9181814,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1374.69763,"y":378.9,"resourceVersion":"1.0","name":"inst_2E0C75BF","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_koylu5","path":"objects/obj_koylu5/obj_koylu5.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.741015851,"scaleY":0.9181814,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1197.86438,"y":378.9,"resourceVersion":"1.0","name":"inst_CD17180","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_koylu6","path":"objects/obj_koylu6/obj_koylu6.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7808416,"scaleY":0.9181821,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1291.4707,"y":378.9,"resourceVersion":"1.0","name":"inst_24E80050","tags":[],"resourceType":"GMRInstance",},
-      ],"visible":true,"depth":1000,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_12","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"instances":[],"visible":true,"depth":1000,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_12","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Sprite239","path":"sprites/Sprite239/Sprite239.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.5933014,"scaleY":0.607526839,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":415.421082,"y":204.0,"resourceVersion":"1.0","name":"graphic_3A77C45","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"Sprite238","path":"sprites/Sprite238/Sprite238.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.5966387,"scaleY":0.291666657,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1256.0,"y":149.5,"resourceVersion":"1.0","name":"graphic_422D1BA3","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -258,9 +254,6 @@
   "instanceCreationOrder": [
     {"name":"inst_5EC6582A","path":"rooms/rm_oyun2/rm_oyun2.yy",},
     {"name":"inst_40D1974C","path":"rooms/rm_oyun2/rm_oyun2.yy",},
-    {"name":"inst_2E0C75BF","path":"rooms/rm_oyun2/rm_oyun2.yy",},
-    {"name":"inst_CD17180","path":"rooms/rm_oyun2/rm_oyun2.yy",},
-    {"name":"inst_24E80050","path":"rooms/rm_oyun2/rm_oyun2.yy",},
     {"name":"inst_DD754EC","path":"rooms/rm_oyun2/rm_oyun2.yy",},
     {"name":"inst_336F845F","path":"rooms/rm_oyun2/rm_oyun2.yy",},
     {"name":"inst_5EB5D6E0","path":"rooms/rm_oyun2/rm_oyun2.yy",},
