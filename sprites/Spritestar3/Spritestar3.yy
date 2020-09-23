@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3700694e-1483-476e-8e66-19c956bd5eb5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Yildiz",
+    "path": "folders/Sprites/Yildiz.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spritestar3",

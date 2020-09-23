@@ -24,15 +24,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"0ec87847-dc53-4fe7-b208-96a32a172a46","path":"sprites/Sprite15/Sprite15.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0ec87847-dc53-4fe7-b208-96a32a172a46","path":"sprites/Sprite15/Sprite15.yy",},"LayerId":{"name":"6c8c3e56-c1ed-4f5b-af64-6c26e2855686","path":"sprites/Sprite15/Sprite15.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},"resourceVersion":"1.0","name":"0ec87847-dc53-4fe7-b208-96a32a172a46","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8d07773c-01d1-495c-a1ad-0fcd68081b7d","path":"sprites/Bg_Bulut/Bg_Bulut.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8d07773c-01d1-495c-a1ad-0fcd68081b7d","path":"sprites/Bg_Bulut/Bg_Bulut.yy",},"LayerId":{"name":"bdb583b7-4f7d-4c8d-b513-f8447b5ddf73","path":"sprites/Bg_Bulut/Bg_Bulut.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Bg_Bulut","path":"sprites/Bg_Bulut/Bg_Bulut.yy",},"resourceVersion":"1.0","name":"8d07773c-01d1-495c-a1ad-0fcd68081b7d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},
+    "spriteId": {"name":"Bg_Bulut","path":"sprites/Bg_Bulut/Bg_Bulut.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 33.0,
+    "playbackSpeed": 30.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6973f391-39c5-435a-a39f-bd66c8b809eb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0ec87847-dc53-4fe7-b208-96a32a172a46","path":"sprites/Sprite15/Sprite15.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"59c0ea2f-7c6c-48fa-9f34-4f2baa3f6897","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8d07773c-01d1-495c-a1ad-0fcd68081b7d","path":"sprites/Bg_Bulut/Bg_Bulut.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},
+    "parent": {"name":"Bg_Bulut","path":"sprites/Bg_Bulut/Bg_Bulut.yy",},
     "resourceVersion": "1.3",
-    "name": "Sprite15",
+    "name": "Bg_Bulut",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6c8c3e56-c1ed-4f5b-af64-6c26e2855686","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bdb583b7-4f7d-4c8d-b513-f8447b5ddf73","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Arkaplanlar",
     "path": "folders/Sprites/Arkaplanlar.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Sprite15",
+  "name": "Bg_Bulut",
   "tags": [],
   "resourceType": "GMSprite",
 }

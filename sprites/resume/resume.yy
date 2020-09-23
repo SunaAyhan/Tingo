@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9187b0c7-8fb2-4922-a3f7-d0b81e316f8f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Butonlar",
+    "path": "folders/Sprites/Butonlar.yy",
   },
   "resourceVersion": "1.0",
   "name": "resume",

@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"48a1b8ed-3056-4049-b0a2-94436f4dc66a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Arkaplanlar",
+    "path": "folders/Sprites/Arkaplanlar.yy",
   },
   "resourceVersion": "1.0",
   "name": "pause_menu",
