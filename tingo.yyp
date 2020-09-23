@@ -370,6 +370,7 @@
     {"id":{"name":"Spr_dusman2","path":"sprites/Spr_dusman2/Spr_dusman2.yy",},"order":55,},
     {"id":{"name":"Sprite285","path":"sprites/Sprite285/Sprite285.yy",},"order":9,},
     {"id":{"name":"rm_kaybetme","path":"rooms/rm_kaybetme/rm_kaybetme.yy",},"order":1,},
+    {"id":{"name":"Path67","path":"paths/Path67/Path67.yy",},"order":18,},
     {"id":{"name":"Path19","path":"paths/Path19/Path19.yy",},"order":9,},
     {"id":{"name":"rm_oyun20","path":"rooms/rm_oyun20/rm_oyun20.yy",},"order":4,},
     {"id":{"name":"saldiri_onden","path":"sprites/saldiri_onden/saldiri_onden.yy",},"order":5,},

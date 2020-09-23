@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-var lay_id = layer_get_id("Tiles_2");
+/*var lay_id = layer_get_id("Tiles_2");
 var map_id = layer_tilemap_get_id(lay_id);
 var q = sprite_index, t;
 var qx = sprite_get_xoffset(q);
@@ -123,31 +123,31 @@ if(isChanged==1){
 			break;
 	}
 	
-}
+}*/
 change_x = pos_prevx-x;
 change_y = pos_prevy-y;
 if(place_meeting(x,y,Obj_oyuncu)){
-	sprite_index= saldiri_onden;
+	sprite_index= Saldiri_onden2;
 }else if(place_meeting(x+10,y,Obj_oyuncu)){
-	sprite_index=Saldiri_saga;
+	sprite_index=Saldiri_saga2;
 }else if(place_meeting(x,y+10,Obj_oyuncu)){
-	sprite_index = saldiri_onden;	
+	sprite_index = Saldiri_onden2;	
 }else if(place_meeting(x-10,y,Obj_oyuncu)){
-	sprite_index = Saldiri_sola;	
+	sprite_index = Saldiri_sola2;	
 }else if(place_meeting(x,y-10,Obj_oyuncu)){
-	sprite_index = Saldiri_arkadan;
+	sprite_index = Saldiri_arkadan2;
 }else{
 	if(abs(change_x)>abs(change_y)){
 		if(change_x<0){
-			sprite_index=Saga_yurume;
+			sprite_index=saga_yurume3;
 		}else{
-			sprite_index=sola_yurume;	
+			sprite_index=sola_yurume2;	
 		}
 	}else{
 		if(change_y<0){
-			sprite_index=onden_yurume;
+			sprite_index=onden_yurume2;
 		}else{
-			sprite_index=arkadan_yurume;	
+			sprite_index=arkadan_yurume2;	
 		}
 	}	
 }

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "onden_yurume",
-    "path": "sprites/onden_yurume/onden_yurume.yy",
+    "name": "onden_yurume2",
+    "path": "sprites/onden_yurume2/onden_yurume2.yy",
   },
   "solid": true,
   "visible": true,
