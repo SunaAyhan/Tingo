@@ -39,7 +39,9 @@
         {"spriteId":{"name":"Spr_agac3","path":"sprites/Spr_agac3/Spr_agac3.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.857142866,"scaleY":0.886121,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":416.0,"resourceVersion":"1.0","name":"graphic_3653C33B","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_12","tags":[],"resourceType":"GMRAssetLayer",},
     {"assets":[],"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_11","tags":[],"resourceType":"GMRAssetLayer",},
-    {"instances":[],"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"TouchControl","path":"objects/TouchControl/TouchControl.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":24.0,"scaleY":16.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_23AD5096","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":700,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"dusman","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Spr_building10","path":"sprites/Spr_building10/Spr_building10.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.717479646,"scaleY":0.556553,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":0.0,"resourceVersion":"1.0","name":"graphic_1D614FC","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -219,7 +221,6 @@
     {"name":"inst_CB0DE0F","path":"rooms/rm_oyun1/rm_oyun1.yy",},
     {"name":"inst_5FE5F716","path":"rooms/rm_oyun1/rm_oyun1.yy",},
     {"name":"inst_9E5B84D","path":"rooms/rm_oyun1/rm_oyun1.yy",},
-    {"name":"inst_724D7178","path":"rooms/rm_oyun1/rm_oyun1.yy",},
     {"name":"inst_74F0CF59","path":"rooms/rm_oyun1/rm_oyun1.yy",},
     {"name":"inst_3F73DE92","path":"rooms/rm_oyun1/rm_oyun1.yy",},
     {"name":"inst_CFBBF43","path":"rooms/rm_oyun1/rm_oyun1.yy",},
@@ -301,6 +302,8 @@
     {"name":"inst_1102850A","path":"rooms/rm_oyun1/rm_oyun1.yy",},
     {"name":"inst_72291800","path":"rooms/rm_oyun1/rm_oyun1.yy",},
     {"name":"inst_544EF1E5","path":"rooms/rm_oyun1/rm_oyun1.yy",},
+    {"name":"inst_724D7178","path":"rooms/rm_oyun1/rm_oyun1.yy",},
+    {"name":"inst_23AD5096","path":"rooms/rm_oyun1/rm_oyun1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
