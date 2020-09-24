@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_meyve",
-    "path": "sprites/Spr_meyve/Spr_meyve.yy",
+    "name": "Spr_cyaprak",
+    "path": "sprites/Spr_cyaprak/Spr_cyaprak.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"parent":{"name":"karpuz","path":"objects/karpuz/karpuz.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"parent":{"name":"Object34","path":"objects/Object34/Object34.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects/power up.yy",
   },
   "resourceVersion": "1.0",
-  "name": "karpuz",
+  "name": "Object34",
   "tags": [],
   "resourceType": "GMObject",
 }

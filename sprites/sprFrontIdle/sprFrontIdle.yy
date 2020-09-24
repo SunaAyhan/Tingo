@@ -17,8 +17,8 @@
   "width": 64,
   "height": 64,
   "textureGroupId": {
-    "name": "Theme1",
-    "path": "texturegroups/Theme1",
+    "name": "oyuncu",
+    "path": "texturegroups/oyuncu",
   },
   "swatchColours": null,
   "gridX": 0,
