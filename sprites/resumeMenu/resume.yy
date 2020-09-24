@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 263,
+  "bbox_right": 213,
   "bbox_top": 0,
-  "bbox_bottom": 131,
+  "bbox_bottom": 214,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 512,
-  "height": 512,
+  "width": 214,
+  "height": 215,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6ec88cfa-9183-4ef5-bb28-f8cb8724d09e","path":"sprites/Col_Yol/Col_Yol.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6ec88cfa-9183-4ef5-bb28-f8cb8724d09e","path":"sprites/Col_Yol/Col_Yol.yy",},"LayerId":{"name":"df05375a-c678-468c-aef3-c0c7e5f1ba7b","path":"sprites/Col_Yol/Col_Yol.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Col_Yol","path":"sprites/Col_Yol/Col_Yol.yy",},"resourceVersion":"1.0","name":"6ec88cfa-9183-4ef5-bb28-f8cb8724d09e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4b6f5832-45f7-4436-a1de-4ce8e28c92a2","path":"sprites/resume/resume.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4b6f5832-45f7-4436-a1de-4ce8e28c92a2","path":"sprites/resume/resume.yy",},"LayerId":{"name":"9187b0c7-8fb2-4922-a3f7-d0b81e316f8f","path":"sprites/resume/resume.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"resume","path":"sprites/resume/resume.yy",},"resourceVersion":"1.0","name":"4b6f5832-45f7-4436-a1de-4ce8e28c92a2","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Col_Yol","path":"sprites/Col_Yol/Col_Yol.yy",},
+    "spriteId": {"name":"resume","path":"sprites/resume/resume.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"17d1a442-1905-45c8-af68-53d84c5f500f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ec88cfa-9183-4ef5-bb28-f8cb8724d09e","path":"sprites/Col_Yol/Col_Yol.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7a4a75a6-2bfa-420d-8845-b8cd2a4b685c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4b6f5832-45f7-4436-a1de-4ce8e28c92a2","path":"sprites/resume/resume.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Col_Yol","path":"sprites/Col_Yol/Col_Yol.yy",},
+    "parent": {"name":"resume","path":"sprites/resume/resume.yy",},
     "resourceVersion": "1.3",
-    "name": "Col_Yol",
+    "name": "resume",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"df05375a-c678-468c-aef3-c0c7e5f1ba7b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9187b0c7-8fb2-4922-a3f7-d0b81e316f8f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Butonlar",
+    "path": "folders/Sprites/Butonlar.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Col_Yol",
+  "name": "resume",
   "tags": [],
   "resourceType": "GMSprite",
 }

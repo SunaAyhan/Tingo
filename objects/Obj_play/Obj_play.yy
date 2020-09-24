@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "resume",
-    "path": "sprites/resume/resume.yy",
+    "name": "resumeMenu",
+    "path": "sprites/resumeMenu/resumeMenu.yy",
   },
   "solid": false,
   "visible": true,

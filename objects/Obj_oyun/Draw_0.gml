@@ -1,8 +1,5 @@
 switch(room)
 {
-case rm_oyun9:
-draw_text(60,25,"SCORE: "+ string(score))
-break;
 
 case rm_baslangic:
 draw_set_halign(fa_center);

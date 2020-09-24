@@ -17,8 +17,8 @@
   "width": 565,
   "height": 442,
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "Theme4",
+    "path": "texturegroups/Theme4",
   },
   "swatchColours": null,
   "gridX": 0,

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Col_Yol_1",
-    "path": "sprites/Col_Yol_1/Col_Yol_1.yy",
+    "name": "Col_Yol_2",
+    "path": "sprites/Col_Yol_2/Col_Yol_2.yy",
   },
   "tileWidth": 33,
   "tileHeight": 33,
@@ -11,8 +11,8 @@
   "tilevsep": 0,
   "spriteNoExport": true,
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "Theme2",
+    "path": "texturegroups/Theme2",
   },
   "out_tilehborder": 2,
   "out_tilevborder": 2,

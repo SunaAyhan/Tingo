@@ -17,8 +17,8 @@
   "width": 256,
   "height": 256,
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "Theme3",
+    "path": "texturegroups/Theme3",
   },
   "swatchColours": null,
   "gridX": 0,

@@ -17,8 +17,8 @@
   "width": 1100,
   "height": 1100,
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "Enemy",
+    "path": "texturegroups/Enemy",
   },
   "swatchColours": null,
   "gridX": 0,
