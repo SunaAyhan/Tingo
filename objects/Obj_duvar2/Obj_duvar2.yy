@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Spr_duvar",
-    "path": "sprites/Spr_duvar/Spr_duvar.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

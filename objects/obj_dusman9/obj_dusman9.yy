@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Spr_dusman3",
-    "path": "sprites/Spr_dusman3/Spr_dusman3.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
