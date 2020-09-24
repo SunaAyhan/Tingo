@@ -124,19 +124,27 @@ if(isChanged==1){
 	}
 	
 }*/
-change_x = pos_prevx-x;
-change_y = pos_prevy-y;
-if(place_meeting(x,y,Obj_oyuncu)){
-	sprite_index= Saldiri_onden2;
-}else if(place_meeting(x+10,y,Obj_oyuncu)){
-	sprite_index=Saldiri_saga2;
-}else if(place_meeting(x,y+10,Obj_oyuncu)){
-	sprite_index = Saldiri_onden2;	
-}else if(place_meeting(x-10,y,Obj_oyuncu)){
-	sprite_index = Saldiri_sola2;	
-}else if(place_meeting(x,y-10,Obj_oyuncu)){
-	sprite_index = Saldiri_arkadan2;
+if(distance_to_object( Obj_oyuncu )<50){
+	var Player_Direction = point_direction(x, y, Obj_oyuncu.x, Obj_oyuncu.y);
+	if(Player_Direction < 45 || Player_Direction >= 315){
+        // Player is right.
+		sprite_index=Saldiri_saga2;
+    }
+    else if(Player_Direction >= 45 && Player_Direction < 135){
+        // Player is up.
+		sprite_index = Saldiri_arkadan2;	
+    }
+    else if(Player_Direction >= 135 && Player_Direction < 225){
+       // Player is left.
+	   sprite_index = Saldiri_sola2;	
+    }
+    else if(Player_Direction >= 225 && Player_Direction < 315){
+        // Player is down.
+		sprite_index= Saldiri_onden2;
+    }
 }else{
+	change_x = pos_prevx-x;
+	change_y = pos_prevy-y;
 	if(abs(change_x)>abs(change_y)){
 		if(change_x<0){
 			sprite_index=saga_yurume3;

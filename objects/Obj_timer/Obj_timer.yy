@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_Top",
+    "path": "sprites/Spr_Top/Spr_Top.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

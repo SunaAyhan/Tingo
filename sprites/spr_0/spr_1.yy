@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"bb66abf7-9886-4235-a7bb-e32ba581326b","path":"sprites/Sprite358/Sprite358.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bb66abf7-9886-4235-a7bb-e32ba581326b","path":"sprites/Sprite358/Sprite358.yy",},"LayerId":{"name":"9e94447e-82c9-4e81-9bde-48eb0e86ca07","path":"sprites/Sprite358/Sprite358.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Sprite358","path":"sprites/Sprite358/Sprite358.yy",},"resourceVersion":"1.0","name":"bb66abf7-9886-4235-a7bb-e32ba581326b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d9e33914-322d-4c01-9da7-4e4421c02020","path":"sprites/spr_1/spr_1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d9e33914-322d-4c01-9da7-4e4421c02020","path":"sprites/spr_1/spr_1.yy",},"LayerId":{"name":"01af3c1e-e4b2-45ec-80f2-a1dff8df7a5a","path":"sprites/spr_1/spr_1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_1","path":"sprites/spr_1/spr_1.yy",},"resourceVersion":"1.0","name":"d9e33914-322d-4c01-9da7-4e4421c02020","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Sprite358","path":"sprites/Sprite358/Sprite358.yy",},
+    "spriteId": {"name":"spr_1","path":"sprites/spr_1/spr_1.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"e8470380-1d88-4684-8d88-394e597d94a1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bb66abf7-9886-4235-a7bb-e32ba581326b","path":"sprites/Sprite358/Sprite358.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"58cada01-a0b9-4271-8eae-b1fd0cbe86de","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d9e33914-322d-4c01-9da7-4e4421c02020","path":"sprites/spr_1/spr_1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Sprite358","path":"sprites/Sprite358/Sprite358.yy",},
+    "parent": {"name":"spr_1","path":"sprites/spr_1/spr_1.yy",},
     "resourceVersion": "1.3",
-    "name": "Sprite358",
+    "name": "spr_1",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9e94447e-82c9-4e81-9bde-48eb0e86ca07","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"01af3c1e-e4b2-45ec-80f2-a1dff8df7a5a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Arkaplanlar",
-    "path": "folders/Sprites/Arkaplanlar.yy",
+    "name": "Sayilar",
+    "path": "folders/Sprites/Sayilar.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Sprite358",
+  "name": "spr_1",
   "tags": [],
   "resourceType": "GMSprite",
 }

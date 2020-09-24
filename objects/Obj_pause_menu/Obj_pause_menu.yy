@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Pencereler",
+    "path": "folders/Objects/Pencereler.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_pause_menu",
