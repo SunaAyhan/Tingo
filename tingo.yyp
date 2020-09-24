@@ -67,7 +67,6 @@
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":5,},
     {"id":{"name":"Spr_adasag","path":"sprites/Spr_adasag/Spr_adasag.yy",},"order":24,},
     {"id":{"name":"Spr_NextLVL","path":"sprites/Spr_NextLVL/Spr_NextLVL.yy",},"order":9,},
-    {"id":{"name":"mouse273","path":"sprites/mouse273/mouse273.yy",},"order":103,},
     {"id":{"name":"nehir","path":"sprites/nehir/nehir.yy",},"order":34,},
     {"id":{"name":"Path65","path":"paths/Path65/Path65.yy",},"order":64,},
     {"id":{"name":"Spr_karlicim","path":"sprites/Spr_karlicim/Spr_karlicim.yy",},"order":33,},
