@@ -13,7 +13,12 @@
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
   ],
   "layers": [
-    {"instances":[],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-132.0,"y":366.0,"resourceVersion":"1.0","name":"inst_A991C5E","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-122.0,"y":527.0,"resourceVersion":"1.0","name":"inst_1A6AC181","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-122.0,"y":695.0,"resourceVersion":"1.0","name":"inst_72058DCB","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-110.0,"y":875.0,"resourceVersion":"1.0","name":"inst_33552290","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":55.5,"y":81.5,"resourceVersion":"1.0","name":"inst_5EC15007","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":140.5,"y":81.5,"resourceVersion":"1.0","name":"inst_43CE6CC1","tags":[],"resourceType":"GMRInstance",},
@@ -387,6 +392,10 @@
     {"name":"inst_5A7C3AB","path":"rooms/rm_oyun90/rm_oyun90.yy",},
     {"name":"inst_7A20697A","path":"rooms/rm_oyun90/rm_oyun90.yy",},
     {"name":"inst_265A04EF","path":"rooms/rm_oyun90/rm_oyun90.yy",},
+    {"name":"inst_A991C5E","path":"rooms/rm_oyun90/rm_oyun90.yy",},
+    {"name":"inst_1A6AC181","path":"rooms/rm_oyun90/rm_oyun90.yy",},
+    {"name":"inst_72058DCB","path":"rooms/rm_oyun90/rm_oyun90.yy",},
+    {"name":"inst_33552290","path":"rooms/rm_oyun90/rm_oyun90.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -128,7 +128,11 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"TouchControl","path":"objects/TouchControl/TouchControl.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":24.921875,"scaleY":16.09375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_2C15EAC9","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_4","tags":[],"resourceType":"GMRInstanceLayer",},
-    {"instances":[],"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-66.0,"y":224.0,"resourceVersion":"1.0","name":"inst_7C358C9F","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-44.0,"y":366.25,"resourceVersion":"1.0","name":"inst_137D38ED","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-44.0,"y":535.0,"resourceVersion":"1.0","name":"inst_258784C9","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5925926,"scaleY":1.49230766,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1568.0,"y":928.0,"resourceVersion":"1.0","name":"inst_14AE5E67","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_oyun","path":"objects/Obj_oyun/Obj_oyun.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1280.0,"y":384.0,"resourceVersion":"1.0","name":"inst_CB0DE0F","tags":[],"resourceType":"GMRInstance",},
@@ -378,6 +382,9 @@
     {"name":"inst_287425E3","path":"rooms/rm_oyun9/rm_oyun9.yy",},
     {"name":"inst_13B465E6","path":"rooms/rm_oyun9/rm_oyun9.yy",},
     {"name":"inst_2C15EAC9","path":"rooms/rm_oyun9/rm_oyun9.yy",},
+    {"name":"inst_7C358C9F","path":"rooms/rm_oyun9/rm_oyun9.yy",},
+    {"name":"inst_137D38ED","path":"rooms/rm_oyun9/rm_oyun9.yy",},
+    {"name":"inst_258784C9","path":"rooms/rm_oyun9/rm_oyun9.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
