@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_Restart",
-    "path": "sprites/Spr_Restart/Spr_Restart.yy",
+    "name": "Spr_NextLVL",
+    "path": "sprites/Spr_NextLVL/Spr_NextLVL.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":13,"collisionObjectId":null,"parent":{"name":"Obj_Yeniden","path":"objects/Obj_Yeniden/Obj_Yeniden.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":13,"collisionObjectId":null,"parent":{"name":"Obj_NextLVL","path":"objects/Obj_NextLVL/Obj_NextLVL.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects/Pencereler.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Yeniden",
+  "name": "Obj_NextLVL",
   "tags": [],
   "resourceType": "GMObject",
 }

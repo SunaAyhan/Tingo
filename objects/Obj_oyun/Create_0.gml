@@ -7,3 +7,4 @@ if !gpu_get_alphatestenable()
     gpu_set_alphatestref(128);
     }
 gpu_set_blendenable(true);
+global.IsPassed=0;

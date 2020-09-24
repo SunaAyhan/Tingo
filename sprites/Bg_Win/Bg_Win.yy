@@ -2,20 +2,20 @@
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
-  "origin": 0,
+  "origin": 4,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 963,
+  "bbox_right": 799,
   "bbox_top": 0,
-  "bbox_bottom": 1294,
+  "bbox_bottom": 895,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 964,
-  "height": 1295,
+  "width": 800,
+  "height": 900,
   "textureGroupId": {
     "name": "Gui",
     "path": "texturegroups/Gui",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a35f52a4-df3e-40bf-b4de-7e1ea20743bf","path":"sprites/Bg_Win/Bg_Win.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a35f52a4-df3e-40bf-b4de-7e1ea20743bf","path":"sprites/Bg_Win/Bg_Win.yy",},"LayerId":{"name":"344f8733-a87e-466e-a974-489a088f01e7","path":"sprites/Bg_Win/Bg_Win.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Bg_Win","path":"sprites/Bg_Win/Bg_Win.yy",},"resourceVersion":"1.0","name":"a35f52a4-df3e-40bf-b4de-7e1ea20743bf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bc0ad2d5-7d35-42ff-a616-ecf938543bf6","path":"sprites/Bg_Win/Bg_Win.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bc0ad2d5-7d35-42ff-a616-ecf938543bf6","path":"sprites/Bg_Win/Bg_Win.yy",},"LayerId":{"name":"ac87b95c-fef0-4b01-a19a-e21bdf2ddfe6","path":"sprites/Bg_Win/Bg_Win.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Bg_Win","path":"sprites/Bg_Win/Bg_Win.yy",},"resourceVersion":"1.0","name":"bc0ad2d5-7d35-42ff-a616-ecf938543bf6","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Bg_Win","path":"sprites/Bg_Win/Bg_Win.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"1ab0a44c-d2e8-4bbc-8c52-100bbd67debb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a35f52a4-df3e-40bf-b4de-7e1ea20743bf","path":"sprites/Bg_Win/Bg_Win.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4d75cda6-5a49-4bc0-9014-9e6a528f8045","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bc0ad2d5-7d35-42ff-a616-ecf938543bf6","path":"sprites/Bg_Win/Bg_Win.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 400,
+    "yorigin": 450,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Bg_Win","path":"sprites/Bg_Win/Bg_Win.yy",},
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"344f8733-a87e-466e-a974-489a088f01e7","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ac87b95c-fef0-4b01-a19a-e21bdf2ddfe6","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Arkaplanlar",

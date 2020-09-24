@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_Restart",
-    "path": "sprites/Spr_Restart/Spr_Restart.yy",
+    "name": "Bg_Win",
+    "path": "sprites/Bg_Win/Bg_Win.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":13,"collisionObjectId":null,"parent":{"name":"Obj_Yeniden","path":"objects/Obj_Yeniden/Obj_Yeniden.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"Obj_WinMenu","path":"objects/Obj_WinMenu/Obj_WinMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Obj_WinMenu","path":"objects/Obj_WinMenu/Obj_WinMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +31,7 @@
     "path": "folders/Objects/Pencereler.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Yeniden",
+  "name": "Obj_WinMenu",
   "tags": [],
   "resourceType": "GMObject",
 }

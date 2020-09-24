@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this edito
 
-if (global.timer > 0 && !global.is_paused && !global.isDead) {
+if (global.timer > 0 && !global.is_paused && !global.isDead && !global.IsPassed) {
 	global.timer--;
 	
 	
