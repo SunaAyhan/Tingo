@@ -8,3 +8,4 @@ if !gpu_get_alphatestenable()
     }
 gpu_set_blendenable(true);
 global.IsPassed=0;
+global.MusicState = GetSettingsSound();
