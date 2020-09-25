@@ -229,6 +229,7 @@
     {"id":{"name":"Path17","path":"paths/Path17/Path17.yy",},"order":7,},
     {"id":{"name":"dog1294","path":"sprites/dog1294/dog1294.yy",},"order":18,},
     {"id":{"name":"Spr_colyol","path":"sprites/Spr_colyol/Spr_colyol.yy",},"order":16,},
+    {"id":{"name":"rm_oyun0","path":"rooms/rm_oyun0/rm_oyun0.yy",},"order":5,},
     {"id":{"name":"Sprite60","path":"sprites/Sprite60/Sprite60.yy",},"order":36,},
     {"id":{"name":"TouchControl","path":"objects/TouchControl/TouchControl.yy",},"order":3,},
     {"id":{"name":"Sprite208209","path":"sprites/Sprite208209/Sprite208209.yy",},"order":69,},
@@ -441,6 +442,7 @@
     {"id":{"name":"Spr_kardekorcit","path":"sprites/Spr_kardekorcit/Spr_kardekorcit.yy",},"order":19,},
     {"id":{"name":"Saldiri_sola","path":"sprites/Saldiri_sola/Saldiri_sola.yy",},"order":7,},
     {"id":{"name":"rm_oyun16","path":"rooms/rm_oyun16/rm_oyun16.yy",},"order":5,},
+    {"id":{"name":"Path79","path":"paths/Path79/Path79.yy",},"order":31,},
     {"id":{"name":"Path24","path":"paths/Path24/Path24.yy",},"order":16,},
     {"id":{"name":"orman_yol_1","path":"sprites/orman_yol_1/orman_yol_1.yy",},"order":31,},
     {"id":{"name":"Path13","path":"paths/Path13/Path13.yy",},"order":3,},
@@ -546,6 +548,7 @@
     {"name":"r_level_2","path":"rooms/r_level_2/r_level_2.yy",},
     {"name":"r_level_3","path":"rooms/r_level_3/r_level_3.yy",},
     {"name":"r_level_select_menu","path":"rooms/r_level_select_menu/r_level_select_menu.yy",},
+    {"name":"rm_oyun0","path":"rooms/rm_oyun0/rm_oyun0.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
