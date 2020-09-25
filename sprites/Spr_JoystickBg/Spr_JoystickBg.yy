@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 199,
+  "bbox_right": 159,
   "bbox_top": 0,
-  "bbox_bottom": 199,
+  "bbox_bottom": 159,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 200,
-  "height": 200,
+  "width": 160,
+  "height": 160,
   "textureGroupId": {
     "name": "Gui",
     "path": "texturegroups/Gui",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f9b89047-cd97-4c81-b87c-9b44a99414e2","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f9b89047-cd97-4c81-b87c-9b44a99414e2","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"LayerId":{"name":"59d61ff7-4b6b-4dbc-814c-dbbbef282fc0","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_JoystickBg","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"resourceVersion":"1.0","name":"f9b89047-cd97-4c81-b87c-9b44a99414e2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9ca7c2b7-39c1-4d93-9b4c-2d91503b7de0","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9ca7c2b7-39c1-4d93-9b4c-2d91503b7de0","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"LayerId":{"name":"6a635660-0ab4-48f4-95af-81f65aba3bd5","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_JoystickBg","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"resourceVersion":"1.0","name":"9ca7c2b7-39c1-4d93-9b4c-2d91503b7de0","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Spr_JoystickBg","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"7dd45705-7d41-4fd9-82a5-ff7cce541fb8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f9b89047-cd97-4c81-b87c-9b44a99414e2","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a4d2e6c2-373f-4bfc-b78a-a0e1170f4278","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9ca7c2b7-39c1-4d93-9b4c-2d91503b7de0","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 100,
-    "yorigin": 100,
+    "xorigin": 80,
+    "yorigin": 80,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_JoystickBg","path":"sprites/Spr_JoystickBg/Spr_JoystickBg.yy",},
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"59d61ff7-4b6b-4dbc-814c-dbbbef282fc0","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6a635660-0ab4-48f4-95af-81f65aba3bd5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Joystick",
