@@ -2,8 +2,9 @@
 draw_set_font(Font_text);
 if (string_delete(string( room_get_name(room)),8,2)=="rm_oyun")
 {
-	if(!instance_exists(Obj_altin and Obj_altin2))
+	if(!instance_exists(Obj_altin) and !instance_exists(Obj_altin2))
 	{
+		instance_deactivate_all(1);
 		global.IsPassed=1;
 		curlevel = string_delete(string( room_get_name(room)),1,7);
 		show_debug_message(curlevel);
@@ -14,9 +15,9 @@ if (string_delete(string( room_get_name(room)),8,2)=="rm_oyun")
 	}
 	if (global.timeUp||global.isDead)
 	{
-		
+		instance_deactivate_object(Obj_timer);
 		textm = global.timer/room_speed;
-		leftGold= instance_number(Obj_altin);
+		leftGold= instance_number(Obj_altin)+instance_number(Obj_altin2);
 		inst = instance_create_depth(room_width/5, room_height/2,2, Obj_LoseMenu);
 		instance_create_depth(room_width/2, room_height/1.5,1, Obj_Yeniden);
 		instance_create_depth(room_width/3, room_height/1.5,1, Obj_menu);
