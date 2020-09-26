@@ -2,7 +2,7 @@
 draw_set_font(Font_text);
 if (string_delete(string( room_get_name(room)),8,2)=="rm_oyun")
 {
-	if(!instance_exists(Obj_altin))
+	if(!instance_exists(Obj_altin and Obj_altin2))
 	{
 		global.IsPassed=1;
 		curlevel = string_delete(string( room_get_name(room)),1,7);

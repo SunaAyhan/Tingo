@@ -18,6 +18,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-122.0,"y":527.0,"resourceVersion":"1.0","name":"inst_1A6AC181","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-122.0,"y":695.0,"resourceVersion":"1.0","name":"inst_72058DCB","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-110.0,"y":875.0,"resourceVersion":"1.0","name":"inst_33552290","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_timer","path":"objects/Obj_timer/Obj_timer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":0.356783926,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":32.32161,"resourceVersion":"1.0","name":"inst_2707D217","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":55.5,"y":81.5,"resourceVersion":"1.0","name":"inst_5EC15007","tags":[],"resourceType":"GMRInstance",},
@@ -396,6 +397,7 @@
     {"name":"inst_1A6AC181","path":"rooms/rm_oyun10/rm_oyun10.yy",},
     {"name":"inst_72058DCB","path":"rooms/rm_oyun10/rm_oyun10.yy",},
     {"name":"inst_33552290","path":"rooms/rm_oyun10/rm_oyun10.yy",},
+    {"name":"inst_2707D217","path":"rooms/rm_oyun10/rm_oyun10.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
