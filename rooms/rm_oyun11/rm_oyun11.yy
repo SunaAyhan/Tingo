@@ -16,6 +16,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"TouchControl","path":"objects/TouchControl/TouchControl.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":25.046875,"scaleY":15.984375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_5F9E4A31","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_timer","path":"objects/Obj_timer/Obj_timer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.35,"scaleY":0.35,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,"resourceVersion":"1.0","name":"inst_23A92A98","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Object48","path":"objects/Object48/Object48.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7241379,"scaleY":0.733333349,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1269.0,"y":32.0,"resourceVersion":"1.0","name":"inst_1F9A1860","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_5","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.3,"scaleY":1.3,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1513.0,"y":937.0,"resourceVersion":"1.0","name":"inst_14AE5E67","tags":[],"resourceType":"GMRInstance",},
@@ -45,7 +46,6 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.625,"y":78.0,"resourceVersion":"1.0","name":"inst_64276D25","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1142.0,"y":78.0,"resourceVersion":"1.0","name":"inst_2C8C7C9","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1227.0,"y":78.0,"resourceVersion":"1.0","name":"inst_1DBE2FD3","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1311.5,"y":78.0,"resourceVersion":"1.0","name":"inst_407D225B","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1396.5,"y":78.0,"resourceVersion":"1.0","name":"inst_3C15B2DA","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":182.5,"y":243.0,"resourceVersion":"1.0","name":"inst_355E6468","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_altin2","path":"objects/Obj_altin2/Obj_altin2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7926829,"scaleY":0.75,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":267.0,"y":243.0,"resourceVersion":"1.0","name":"inst_7FCBCF92","tags":[],"resourceType":"GMRInstance",},
@@ -198,7 +198,6 @@
     {"name":"inst_64276D25","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_2C8C7C9","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_1DBE2FD3","path":"rooms/rm_oyun11/rm_oyun11.yy",},
-    {"name":"inst_407D225B","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_3C15B2DA","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_355E6468","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_7FCBCF92","path":"rooms/rm_oyun11/rm_oyun11.yy",},
@@ -251,6 +250,7 @@
     {"name":"inst_23A92A98","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_5BFE623C","path":"rooms/rm_oyun11/rm_oyun11.yy",},
     {"name":"inst_2692F3E9","path":"rooms/rm_oyun11/rm_oyun11.yy",},
+    {"name":"inst_1F9A1860","path":"rooms/rm_oyun11/rm_oyun11.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

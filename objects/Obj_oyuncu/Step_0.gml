@@ -12,6 +12,7 @@ if (image_xscale < 0) {
     t = my_bbox_left;
     my_bbox_left = my_bbox_right;
     my_bbox_right = t;
+	audio_play_sound(_406741__kretopi__steponwood_005,0,true)
 }
 if (image_yscale < 0) {
     t = my_bbox_top;
