@@ -1,5 +1,5 @@
 
-if(distance_to_object( Obj_oyuncu )<50 and global.gorunmez=0){
+if(distance_to_object( Obj_oyuncu )<30 and global.gorunmez=0){
 	var Player_Direction = point_direction(x, y, Obj_oyuncu.x, Obj_oyuncu.y);
 	if(Player_Direction < 45 || Player_Direction >= 315){
         // Player is right.
