@@ -10,7 +10,7 @@ function GetMaxTime(level){
 	}else
 	{
 		ini_open("times.sv");
-		var times = array(80,80,80,80,80,80,70,70,70,70,70,60,60,60,60,60,60,50,50,50,50,50,50,50,50);
+		var times = array(80,80,80,80,80,80,60,60,60,60,60,50,50,50,50,50,50,40,40,40,40,40,40,40,40);
 		for(var i = 0;i<23;i+=1)
 		{
 			ini_write_real("times",i,times[i]);
