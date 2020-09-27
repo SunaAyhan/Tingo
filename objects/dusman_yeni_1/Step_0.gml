@@ -124,7 +124,7 @@ if(isChanged==1){
 	}
 	
 }*/
-if(distance_to_object( Obj_oyuncu )<50){
+if(distance_to_object( Obj_oyuncu )<50 and global.gorunmez=0){
 	var Player_Direction = point_direction(x, y, Obj_oyuncu.x, Obj_oyuncu.y);
 	if(Player_Direction < 45 || Player_Direction >= 315){
         // Player is right.
@@ -142,6 +142,7 @@ if(distance_to_object( Obj_oyuncu )<50){
         // Player is down.
 		sprite_index= Saldiri_onden2;
     }
+	audio_play_sound(Drop_Sword_SoundBible_com_768774345,0,false)
 }else{
 	change_x = pos_prevx-x;
 	change_y = pos_prevy-y;

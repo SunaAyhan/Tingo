@@ -12,12 +12,12 @@ if (image_xscale < 0) {
     t = my_bbox_left;
     my_bbox_left = my_bbox_right;
     my_bbox_right = t;
-	audio_play_sound(_406741__kretopi__steponwood_005,0,true)
 }
 if (image_yscale < 0) {
     t = my_bbox_top;
     my_bbox_top = my_bbox_bottom;
     my_bbox_bottom = t;
+	
 }
 if(keyboard_check(vk_nokey)){
 	if(lastPos == sprRightIdle){
@@ -26,6 +26,11 @@ if(keyboard_check(vk_nokey)){
 		image_xscale=sprite_index_normal;}
 	sprite_index= lastPos;
 }else{
+	count+=1;
+	if(count == 7 ){
+		count = 0;
+		audio_play_sound(_406741__kretopi__steponwood_005,0,false);
+	}	
 if(keyboard_check(vk_left)and ( tilemap_get_at_pixel(map_id, my_bbox_left-global.yurumehizix, bbox_bottom) and tilemap_get_at_pixel(map_id, my_bbox_left-global.yurumehizix, bbox_top)) != 0 and x>=0)
 {
 	x-=global.yurumehizix
