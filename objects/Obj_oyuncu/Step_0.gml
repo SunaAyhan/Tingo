@@ -27,7 +27,7 @@ if(keyboard_check(vk_nokey)){
 	sprite_index= lastPos;
 }else{
 	count+=1;
-	if(count == 7 ){
+	if(count == 13 ){
 		count = 0;
 		audio_play_sound(_406741__kretopi__steponwood_005,0,false);
 	}	
