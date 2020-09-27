@@ -1,3 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-path_start(myPath,3,0,1);
+pos_prevx=x;
+pos_prevy=y;
+//prevAvPos = array(0,0,0,0);
+//lastAct =0;

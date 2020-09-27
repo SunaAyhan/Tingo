@@ -29,7 +29,6 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"TouchControl","path":"objects/TouchControl/TouchControl.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":24.0625,"scaleY":15.9846821,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_1800F197","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_5","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1679.0,"y":704.0,"resourceVersion":"1.0","name":"inst_774B2091","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1679.0,"y":704.0,"resourceVersion":"1.0","name":"inst_47A921D2","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1679.0,"y":867.875,"resourceVersion":"1.0","name":"inst_4A57773","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"dusman_yeni_1","path":"objects/dusman_yeni_1/dusman_yeni_1.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.161861464,"scaleY":0.129318178,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":635.9762,"y":54.0,"resourceVersion":"1.0","name":"inst_7B73384D","tags":[],"resourceType":"GMRInstance",},
@@ -393,7 +392,6 @@
     {"name":"inst_2F3DDD18","path":"rooms/rm_oyun6/rm_oyun6.yy",},
     {"name":"inst_2F18B7CB","path":"rooms/rm_oyun6/rm_oyun6.yy",},
     {"name":"inst_6D1B0AAF","path":"rooms/rm_oyun6/rm_oyun6.yy",},
-    {"name":"inst_774B2091","path":"rooms/rm_oyun6/rm_oyun6.yy",},
     {"name":"inst_47A921D2","path":"rooms/rm_oyun6/rm_oyun6.yy",},
     {"name":"inst_4A57773","path":"rooms/rm_oyun6/rm_oyun6.yy",},
     {"name":"inst_7B73384D","path":"rooms/rm_oyun6/rm_oyun6.yy",},
