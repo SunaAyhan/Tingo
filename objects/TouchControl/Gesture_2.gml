@@ -5,3 +5,4 @@ startPosy = mouse_y;
 global.yurumehizix = 0;
 global.yurumehiziy = 0;
 isDragging =1;
+lockedPos =0;

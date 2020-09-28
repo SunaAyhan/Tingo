@@ -3,3 +3,4 @@
 mouse_radius =100;
 global.Max_Speed=3;
 isDragging = 0;
+lockedPos=0;
