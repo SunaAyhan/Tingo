@@ -1,2 +1,2 @@
 myPath= Path32;
-path_start(myPath,3,0,1);
+path_start(myPath,2,0,1);
