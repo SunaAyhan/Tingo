@@ -2,7 +2,12 @@
 // You can write your code in this editor
 v_pos = startPosx-mouse_x;
 
-if(v_pos>mouse_radius or v_pos <-mouse_radius) {if(v_pos<0) {v_pos = -mouse_radius}else{v_pos = mouse_radius}}
+if(v_pos>mouse_radius or v_pos <-mouse_radius) {
+	if(v_pos<0) {
+		v_pos = -mouse_radius
+	}else{
+			v_pos = mouse_radius}
+		}
 h_pos = startPosy-mouse_y;
 
 if(h_pos>mouse_radius or h_pos <-mouse_radius) {if(h_pos<0) {h_pos = -mouse_radius}else{h_pos = mouse_radius}}

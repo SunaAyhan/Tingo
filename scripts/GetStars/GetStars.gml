@@ -11,4 +11,4 @@ function GetStars(level){
 		return res;
 	}
 	return 0;
-}
+} 
