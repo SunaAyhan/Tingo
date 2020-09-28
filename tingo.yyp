@@ -428,6 +428,7 @@
     {"id":{"name":"Spr_korkuluk","path":"sprites/Spr_korkuluk/Spr_korkuluk.yy",},"order":11,},
     {"id":{"name":"colyol_sag","path":"sprites/colyol_sag/colyol_sag.yy",},"order":44,},
     {"id":{"name":"Spr_yeryan","path":"sprites/Spr_yeryan/Spr_yeryan.yy",},"order":22,},
+    {"id":{"name":"Path99","path":"paths/Path99/Path99.yy",},"order":46,},
     {"id":{"name":"Spr_building10","path":"sprites/Spr_building10/Spr_building10.yy",},"order":67,},
     {"id":{"name":"Path2","path":"paths/Path2/Path2.yy",},"order":10,},
     {"id":{"name":"Spr_cimenkose","path":"sprites/Spr_cimenkose/Spr_cimenkose.yy",},"order":2,},
