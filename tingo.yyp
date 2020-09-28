@@ -209,6 +209,7 @@
     {"id":{"name":"Obj_play","path":"objects/Obj_play/Obj_play.yy",},"order":2,},
     {"id":{"name":"Spr_kardekor3","path":"sprites/Spr_kardekor3/Spr_kardekor3.yy",},"order":14,},
     {"id":{"name":"Path84","path":"paths/Path84/Path84.yy",},"order":82,},
+    {"id":{"name":"lockMove","path":"sprites/lockMove/lockMove.yy",},"order":15,},
     {"id":{"name":"r_level_select_menu","path":"rooms/r_level_select_menu/r_level_select_menu.yy",},"order":4,},
     {"id":{"name":"Spr_cimen_kose","path":"sprites/Spr_cimen_kose/Spr_cimen_kose.yy",},"order":0,},
     {"id":{"name":"flower1249250296","path":"sprites/flower1249250296/flower1249250296.yy",},"order":107,},

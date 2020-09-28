@@ -34,23 +34,19 @@ switch(lockedPos){
 		break;
 		
 	case 1:
-		draw_sprite(Spr_JoystickFront,999,startPosx-mouse_radius,startPosy);
-		draw_sprite(spr_locked,999,startPosx-mouse_radius,startPosy);
+		draw_sprite(lockMove,999,startPosx-mouse_radius,startPosy);
 		break;
 		
 	case 2:
-		draw_sprite(Spr_JoystickFront,999,startPosx,startPosy-mouse_radius);
-		draw_sprite(spr_locked,999,startPosx,startPosy-mouse_radius);
+		draw_sprite(lockMove,999,startPosx,startPosy-mouse_radius);
 		break;
 		
 	case 3:
-		draw_sprite(Spr_JoystickFront,999,startPosx+mouse_radius,startPosy);
-		draw_sprite(spr_locked,999,startPosx+mouse_radius,startPosy);
+		draw_sprite(lockMove,999,startPosx+mouse_radius,startPosy);
 		break;
 		
 	case 4:
-		draw_sprite(Spr_JoystickFront,999,startPosx,startPosy+mouse_radius);
-		draw_sprite(spr_locked,999,startPosx,startPosy+mouse_radius);
+		draw_sprite(lockMove,999,startPosx,startPosy+mouse_radius);
 		break;
 	
 }
