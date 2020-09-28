@@ -11,18 +11,22 @@ draw_sprite(Spr_JoystickBg,999,startPosx,startPosy);
 		
 		curX = clamp(mouse_x,startPosx,startPosx+lengthdir_x(mouse_radius, dirs))
 		curY = clamp(mouse_y,startPosx, startPosy+ lengthdir_y(mouse_radius, dirs))
-		if(abs(startPosx-curX)>abs(startPosy-curY)){
-			if(startPosx-curX<0){
-				lockedPos = 3;
+		if(abs(startPosx-mouse_x)>200 or abs(startPosy-mouse_y)>200 ){	
+			if(abs(startPosx-curX)>abs(startPosy-curY)){
+				if(startPosx-curX<0){
+					lockedPos = 3;
+				}else{
+					lockedPos = 1;
+				}
 			}else{
-				lockedPos = 1;
+				if(startPosy-curY<0){
+					lockedPos = 4;
+				}else{
+					lockedPos = 2;
+				}
 			}
 		}else{
-			if(startPosy-curY<0){
-				lockedPos = 4;
-			}else{
-				lockedPos = 2;
-			}
+			lockedPos = 0;
 		}
 	}
 draw_sprite(Spr_JoystickFront,999,curX,curY);
@@ -34,19 +38,19 @@ switch(lockedPos){
 		break;
 		
 	case 1:
-		draw_sprite(lockMove,999,startPosx-mouse_radius,startPosy);
+		draw_sprite(lockMove,999,startPosx-200,startPosy);
 		break;
 		
 	case 2:
-		draw_sprite(lockMove,999,startPosx,startPosy-mouse_radius);
+		draw_sprite(lockMove,999,startPosx,startPosy-200);
 		break;
 		
 	case 3:
-		draw_sprite(lockMove,999,startPosx+mouse_radius,startPosy);
+		draw_sprite(lockMove,999,startPosx+200,startPosy);
 		break;
 		
 	case 4:
-		draw_sprite(lockMove,999,startPosx,startPosy+mouse_radius);
+		draw_sprite(lockMove,999,startPosx,startPosy+200);
 		break;
 	
 }

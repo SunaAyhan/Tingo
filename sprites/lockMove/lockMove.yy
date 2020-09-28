@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ca1d8caa-112d-4f24-b5bf-2e47e40a1631","path":"sprites/lockMove/lockMove.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ca1d8caa-112d-4f24-b5bf-2e47e40a1631","path":"sprites/lockMove/lockMove.yy",},"LayerId":{"name":"51bb93c7-4963-401b-a76d-e7334d705011","path":"sprites/lockMove/lockMove.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"lockMove","path":"sprites/lockMove/lockMove.yy",},"resourceVersion":"1.0","name":"ca1d8caa-112d-4f24-b5bf-2e47e40a1631","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"62ef7193-b79c-414c-9740-d5f65cecaf7f","path":"sprites/lockMove/lockMove.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"62ef7193-b79c-414c-9740-d5f65cecaf7f","path":"sprites/lockMove/lockMove.yy",},"LayerId":{"name":"b20295d1-78db-460d-97a4-15016a1f15b0","path":"sprites/lockMove/lockMove.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"lockMove","path":"sprites/lockMove/lockMove.yy",},"resourceVersion":"1.0","name":"62ef7193-b79c-414c-9740-d5f65cecaf7f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"lockMove","path":"sprites/lockMove/lockMove.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c59d04c8-5241-4167-b480-0084d13898c6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ca1d8caa-112d-4f24-b5bf-2e47e40a1631","path":"sprites/lockMove/lockMove.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"078367a1-5398-4328-9e6c-88b2751ca3b7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"62ef7193-b79c-414c-9740-d5f65cecaf7f","path":"sprites/lockMove/lockMove.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,11 +65,11 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"51bb93c7-4963-401b-a76d-e7334d705011","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b20295d1-78db-460d-97a4-15016a1f15b0","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Butonlar",
-    "path": "folders/Sprites/Butonlar.yy",
+    "name": "Joystick",
+    "path": "folders/Sprites/Joystick.yy",
   },
   "resourceVersion": "1.0",
   "name": "lockMove",
