@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 7,
-  "bbox_right": 44,
-  "bbox_top": 4,
-  "bbox_bottom": 39,
+  "bbox_right": 304,
+  "bbox_top": 8,
+  "bbox_bottom": 198,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 50,
-  "height": 48,
+  "height": 32,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e243212e-f286-453e-b570-a5c7e848343f","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e243212e-f286-453e-b570-a5c7e848343f","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"LayerId":{"name":"aadda750-c498-4f8d-86f3-cd49e046eb6a","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_toplama288289290","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"resourceVersion":"1.0","name":"e243212e-f286-453e-b570-a5c7e848343f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1c4b0d05-5901-4ebf-abea-b36da75591dc","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1c4b0d05-5901-4ebf-abea-b36da75591dc","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"LayerId":{"name":"22f0d60f-c0ed-42ef-898f-e0cf0dc5456f","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_toplama288289290","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"resourceVersion":"1.0","name":"1c4b0d05-5901-4ebf-abea-b36da75591dc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_toplama288289290","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c1d16165-7bb2-4972-8463-2851d7cf0a69","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e243212e-f286-453e-b570-a5c7e848343f","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1e7dc28f-1b37-4531-b81c-5dc8250dfdf0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1c4b0d05-5901-4ebf-abea-b36da75591dc","path":"sprites/spr_toplama288289290/spr_toplama288289290.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"aadda750-c498-4f8d-86f3-cd49e046eb6a","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"22f0d60f-c0ed-42ef-898f-e0cf0dc5456f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "deneme",
