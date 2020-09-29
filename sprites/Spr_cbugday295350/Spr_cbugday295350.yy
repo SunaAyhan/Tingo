@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
   "origin": 0,
@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 6,
-  "bbox_right": 31,
-  "bbox_top": 4,
+  "bbox_right": 33,
+  "bbox_top": 5,
   "bbox_bottom": 29,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 38,
-  "height": 33,
+  "width": 40,
+  "height": 35,
   "textureGroupId": {
     "name": "Theme2",
     "path": "texturegroups/Theme2",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9c011619-0ed3-43c1-a6bd-9f5af6fe1ceb","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9c011619-0ed3-43c1-a6bd-9f5af6fe1ceb","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"LayerId":{"name":"64d25c49-43e2-4f5f-846c-1628d6db38f0","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_cbugday295350","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"resourceVersion":"1.0","name":"9c011619-0ed3-43c1-a6bd-9f5af6fe1ceb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"47f92892-f13d-45d7-9621-256be391f638","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"47f92892-f13d-45d7-9621-256be391f638","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"LayerId":{"name":"9578fc32-ffde-48df-8d0d-6f2a731bede4","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_cbugday295350","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"resourceVersion":"1.0","name":"47f92892-f13d-45d7-9621-256be391f638","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Spr_cbugday295350","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"7e889be0-44e4-4323-ac3e-e0a4398c9a76","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9c011619-0ed3-43c1-a6bd-9f5af6fe1ceb","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"552469e6-efa1-4f97-9fb7-0bbd73b689bb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"47f92892-f13d-45d7-9621-256be391f638","path":"sprites/Spr_cbugday295350/Spr_cbugday295350.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"64d25c49-43e2-4f5f-846c-1628d6db38f0","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9578fc32-ffde-48df-8d0d-6f2a731bede4","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "deneme",

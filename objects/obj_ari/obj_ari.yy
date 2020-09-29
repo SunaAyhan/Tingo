@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_ari",
-    "path": "sprites/spr_ari/spr_ari.yy",
+    "name": "orumcekalt",
+    "path": "sprites/orumcekalt/orumcekalt.yy",
   },
   "solid": false,
   "visible": true,

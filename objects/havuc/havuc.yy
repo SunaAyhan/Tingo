@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_c",
-    "path": "sprites/Spr_c/Spr_c.yy",
+    "name": "Spr_cbugday295",
+    "path": "sprites/Spr_cbugday295/Spr_cbugday295.yy",
   },
   "solid": false,
   "visible": true,
