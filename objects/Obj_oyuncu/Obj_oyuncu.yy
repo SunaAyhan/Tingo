@@ -27,6 +27,7 @@
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"aridusman","path":"objects/aridusman/aridusman.yy",},"parent":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"aridusman49","path":"objects/aridusman49/aridusman49.yy",},"parent":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

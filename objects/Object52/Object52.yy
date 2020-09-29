@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "Spr_ates",
-    "path": "sprites/Spr_ates/Spr_ates.yy",
+    "name": "fire",
+    "path": "sprites/fire/fire.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -21,16 +21,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"parent":{"name":"aridusman49","path":"objects/aridusman49/aridusman49.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Object52","path":"objects/Object52/Object52.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"Object52","path":"objects/Object52/Object52.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Dusman",
-    "path": "folders/Objects/Dusman.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "aridusman49",
+  "name": "Object52",
   "tags": [],
   "resourceType": "GMObject",
 }

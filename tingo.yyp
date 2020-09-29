@@ -437,6 +437,7 @@
     {"id":{"name":"Obj_LoseMenu","path":"objects/Obj_LoseMenu/Obj_LoseMenu.yy",},"order":5,},
     {"id":{"name":"obj_ari","path":"objects/obj_ari/obj_ari.yy",},"order":5,},
     {"id":{"name":"Path98","path":"paths/Path98/Path98.yy",},"order":45,},
+    {"id":{"name":"Object52","path":"objects/Object52/Object52.yy",},"order":79,},
     {"id":{"name":"Spr_kardekorcit","path":"sprites/Spr_kardekorcit/Spr_kardekorcit.yy",},"order":19,},
     {"id":{"name":"Spr_SesKapali","path":"sprites/Spr_SesKapali/Spr_SesKapali.yy",},"order":12,},
     {"id":{"name":"rm_oyun16","path":"rooms/rm_oyun16/rm_oyun16.yy",},"order":5,},
