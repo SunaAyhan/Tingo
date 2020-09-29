@@ -1,11 +1,14 @@
 {
   "spriteId": {
-    "name": "Spr_ates",
-    "path": "sprites/Spr_ates/Spr_ates.yy",
+    "name": "Sprite291",
+    "path": "sprites/Sprite291/Sprite291.yy",
   },
   "solid": true,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Sprite291",
+    "path": "sprites/Sprite291/Sprite291.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -22,6 +25,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_oyuncu","path":"objects/Obj_oyuncu/Obj_oyuncu.yy",},"parent":{"name":"aridusman49","path":"objects/aridusman49/aridusman49.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":1,"eventType":2,"collisionObjectId":null,"parent":{"name":"aridusman49","path":"objects/aridusman49/aridusman49.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
