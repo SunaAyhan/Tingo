@@ -3,7 +3,7 @@
     "name": "onden_yurume2",
     "path": "sprites/onden_yurume2/onden_yurume2.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

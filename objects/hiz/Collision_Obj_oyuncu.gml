@@ -1,4 +1,5 @@
-global.Max_Speed += 0.5
+
+global.hizsayisi +=1;
 instance_destroy();
 repeat(3)
 {

@@ -1,6 +1,5 @@
 score = 0;
 lives = 1;
-global.gorunmezlik=0;
 
 draw_texture_flush();
 

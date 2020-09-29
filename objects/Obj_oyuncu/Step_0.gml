@@ -85,4 +85,3 @@ if(keyboard_check(vk_down)and (tilemap_get_at_pixel(map_id, my_bbox_left, my_bbo
 	
 }
 }
-
