@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"dd206208-7ada-4bb1-9abd-dd8096387b13","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "tema2",
-    "path": "folders/Sprites/tema2.yy",
+    "name": "tingo",
+    "path": "tingo.yyp",
   },
   "resourceVersion": "1.0",
   "name": "Spr_adasagkose",
