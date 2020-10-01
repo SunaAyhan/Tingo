@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d3775569-3499-4f85-bd8b-1be324cb3881","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "tingo",
-    "path": "tingo.yyp",
+    "name": "oyun",
+    "path": "folders/Objects/oyun.yy",
   },
   "resourceVersion": "1.0",
   "name": "envspr",

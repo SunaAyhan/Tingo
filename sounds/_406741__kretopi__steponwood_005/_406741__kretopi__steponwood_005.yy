@@ -13,8 +13,8 @@
   "soundFile": "_406741__kretopi__steponwood_005.wav",
   "duration": 0.564813,
   "parent": {
-    "name": "tingo",
-    "path": "tingo.yyp",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "_406741__kretopi__steponwood_005",

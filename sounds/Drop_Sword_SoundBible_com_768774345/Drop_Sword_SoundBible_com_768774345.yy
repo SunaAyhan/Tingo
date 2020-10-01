@@ -13,8 +13,8 @@
   "soundFile": "Drop_Sword_SoundBible_com_768774345.mp3",
   "duration": 2.068673,
   "parent": {
-    "name": "tingo",
-    "path": "tingo.yyp",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "Drop_Sword_SoundBible_com_768774345",
