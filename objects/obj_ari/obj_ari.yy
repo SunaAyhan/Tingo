@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "orumcekalt",
-    "path": "sprites/orumcekalt/orumcekalt.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
