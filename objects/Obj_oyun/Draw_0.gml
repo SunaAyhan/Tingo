@@ -4,7 +4,7 @@ draw_set_font(Font_text);
 
 if (string_delete(string( room_get_name(room)),8,2)=="rm_oyun")
 {
-	if(!instance_exists(Obj_altin) and !instance_exists(Obj_altin2))
+	if(!instance_exists(Obj_altin) and !instance_exists(Obj_altin2) and !(global.timeUp||global.isDead))
 	{ 
 		instance_deactivate_all(1);
 		global.IsPassed=1;

@@ -4,3 +4,4 @@ pos_prevx=x;
 pos_prevy=y;
 //prevAvPos = array(0,0,0,0);
 //lastAct =0;
+count=0;

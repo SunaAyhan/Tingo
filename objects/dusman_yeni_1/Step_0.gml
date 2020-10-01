@@ -17,7 +17,13 @@ if(distance_to_object( Obj_oyuncu )<15 and global.gorunmez=0){
         // Player is down.
 		sprite_index= Saldiri_onden2;
     }
-	audio_play_sound(Drop_Sword_SoundBible_com_768774345,0,false)
+	count+=1;
+	if(count == 20 ){
+		count = 0;
+	}else if(count==1){
+		audio_play_sound(Drop_Sword_SoundBible_com_768774345,0,false);	
+	}
+	
 }else{
 	change_x = pos_prevx-x;
 	change_y = pos_prevy-y;
