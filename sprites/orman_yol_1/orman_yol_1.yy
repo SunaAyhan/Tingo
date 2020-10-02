@@ -21,8 +21,8 @@
     "path": "texturegroups/Theme1",
   },
   "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
+  "gridX": 33,
+  "gridY": 33,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"811c9f6a-9f73-470d-a21d-19c1da696808","path":"sprites/orman_yol_1/orman_yol_1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"811c9f6a-9f73-470d-a21d-19c1da696808","path":"sprites/orman_yol_1/orman_yol_1.yy",},"LayerId":{"name":"8114fd01-5530-47df-93a1-70f11a4dcf34","path":"sprites/orman_yol_1/orman_yol_1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
