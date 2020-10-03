@@ -108,6 +108,7 @@
     {"id":{"name":"Spr_deor","path":"sprites/Spr_deor/Spr_deor.yy",},"order":69,},
     {"id":{"name":"Spr_karyolsol","path":"sprites/Spr_karyolsol/Spr_karyolsol.yy",},"order":63,},
     {"id":{"name":"Col_Yol_2","path":"sprites/Col_Yol_2/Col_Yol_2.yy",},"order":33,},
+    {"id":{"name":"LastLoaded","path":"scripts/LastLoaded/LastLoaded.yy",},"order":8,},
     {"id":{"name":"Sprite284296","path":"sprites/Sprite284296/Sprite284296.yy",},"order":66,},
     {"id":{"name":"Path76","path":"paths/Path76/Path76.yy",},"order":74,},
     {"id":{"name":"Obj_WinMenu","path":"objects/Obj_WinMenu/Obj_WinMenu.yy",},"order":6,},
