@@ -18,7 +18,7 @@ if ( global.hizlan == 1 and alarmDone1==0)
 if ( global.saldir == 1 and alarmDone2==0)
 {
 	global.saldirisayi -=1;
-	alarm_set(2,5*room_speed);
+	alarm_set(2,3*room_speed);
 	alarmDone2=1;
 }
 
