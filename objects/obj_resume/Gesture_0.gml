@@ -5,3 +5,4 @@ instance_activate_all();
 instance_destroy(Obj_pause_menu);
 instance_destroy(obj_resume);
 instance_destroy(Obj_menu);
+instance_destroy(Obj_Yeniden);
