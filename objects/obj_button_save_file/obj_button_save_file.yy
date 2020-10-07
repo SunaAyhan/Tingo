@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_button",
-    "path": "sprites/spr_button/spr_button.yy",
+    "name": "Spr_Yukselt",
+    "path": "sprites/Spr_Yukselt/Spr_Yukselt.yy",
   },
   "solid": false,
   "visible": true,
@@ -19,13 +19,10 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":64.0,"y":16.0,},
-    {"x":64.0,"y":64.0,},
-  ],
+  "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"objSignIn","path":"objects/objSignIn/objSignIn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"objSignIn","path":"objects/objSignIn/objSignIn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_button_save_file","path":"objects/obj_button_save_file/obj_button_save_file.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_button_save_file","path":"objects/obj_button_save_file/obj_button_save_file.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -34,7 +31,7 @@
     "path": "folders/Objects/PlayServices.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objSignIn",
+  "name": "obj_button_save_file",
   "tags": [],
   "resourceType": "GMObject",
 }

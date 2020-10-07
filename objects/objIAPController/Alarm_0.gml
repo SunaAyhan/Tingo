@@ -1,3 +1,0 @@
-/// @desc scrQueryProducts();
-
-scrQueryProducts();

@@ -19,13 +19,10 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":64.0,"y":16.0,},
-    {"x":64.0,"y":64.0,},
-  ],
+  "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"objSignIn","path":"objects/objSignIn/objSignIn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"objSignIn","path":"objects/objSignIn/objSignIn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_button_synchronise_string","path":"objects/obj_button_synchronise_string/obj_button_synchronise_string.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_button_synchronise_string","path":"objects/obj_button_synchronise_string/obj_button_synchronise_string.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -34,7 +31,7 @@
     "path": "folders/Objects/PlayServices.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objSignIn",
+  "name": "obj_button_synchronise_string",
   "tags": [],
   "resourceType": "GMObject",
 }

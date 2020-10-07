@@ -1,3 +1,0 @@
-/// @desc scrQueryPurchases();
-
-scrQueryPurchases();
