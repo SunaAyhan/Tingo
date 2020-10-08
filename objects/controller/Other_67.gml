@@ -4,6 +4,7 @@ if ds_map_find_value(async_load, "id") == cloud_check_file
     if ds_map_find_value(async_load, "status") < 0
     {
         show_message_async("Cloud Services not available.");
+		show_debug_message("\nCouldnt save4 ");
     }
     else
     {
@@ -11,9 +12,14 @@ if ds_map_find_value(async_load, "id") == cloud_check_file
         {
             // Saving a file
             var file = file_text_open_write("data.sv");
-            file_text_write_string(file, async_load);
+            file_text_write_string(file, ds_map_find_value(async_load, "resultString"));
             file_text_close(file);
+			show_debug_message("\nCould save3 ");
             
-        }
+        }else{
+			show_debug_message("\nCouldnt save1 ");
+		}
     }
+}else{
+	show_debug_message("\nCouldnt save2 ");
 }
