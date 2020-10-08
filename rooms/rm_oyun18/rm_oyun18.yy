@@ -340,7 +340,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,0,0,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 ],},"visible":true,"depth":2000,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"yeralt","tags":[],"resourceType":"GMRTileLayer",},
-    {"tilesetId":{"name":"TileSet_cimen","path":"tilesets/TileSet_cimen/TileSet_cimen.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":25,"SerialiseHeight":16,"TileSerialiseData":[
+    {"tilesetId":{"name":"khvetoprak41","path":"tilesets/khvetoprak41/khvetoprak41.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":25,"SerialiseHeight":16,"TileSerialiseData":[
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,
 0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,
 0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,
@@ -358,7 +358,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 ],},"visible":true,"depth":2100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"ts_cimen","tags":[],"resourceType":"GMRTileLayer",},
-    {"tilesetId":{"name":"khvetoprak41","path":"tilesets/khvetoprak41/khvetoprak41.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":25,"SerialiseHeight":16,"TileSerialiseData":[
+    {"tilesetId":{"name":"TileSet_cimen","path":"tilesets/TileSet_cimen/TileSet_cimen.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":25,"SerialiseHeight":16,"TileSerialiseData":[
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,

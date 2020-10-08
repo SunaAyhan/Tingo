@@ -26,11 +26,11 @@ if(keyboard_check(vk_nokey)){
 		image_xscale=sprite_index_normal;}
 	sprite_index= lastPos;
 }else{
-	count+=1;
+	/*count+=1;
 	if(count == 13 ){
 		count = 0;
 		audio_play_sound(_406741__kretopi__steponwood_005,0,false);
-	}	
+	}	*/
 if(keyboard_check(vk_left)and ( tilemap_get_at_pixel(map_id, my_bbox_left-global.yurumehizix, bbox_bottom) and tilemap_get_at_pixel(map_id, my_bbox_left-global.yurumehizix, bbox_top)) != 0 and x>=0)
 {
 	x-=global.yurumehizix
