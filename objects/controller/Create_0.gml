@@ -2,7 +2,7 @@
 
 // Google Play Games
 if achievement_available() achievement_login();
-if achievement_login_status() show_message_async("Google Play Games login OK");
+if achievement_login_status() show_debug_message("Google Play Games login OK");
 
 // Load Dsmap
 
