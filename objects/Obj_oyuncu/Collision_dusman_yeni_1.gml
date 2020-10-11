@@ -5,5 +5,6 @@ if(global.gorunmez = 0 and global.saldir == 0){
 	instance_destroy();
 }
 if(global.saldir == 1){
+	
 	instance_destroy(other);
 }
