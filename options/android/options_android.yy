@@ -1,7 +1,7 @@
 {
   "option_android_sync_amazon": false,
   "option_android_display_name": "Tingo",
-  "option_android_version": "1.4.5",
+  "option_android_version": "1.4.6",
   "option_android_tools_from_version": false,
   "option_android_build_tools": "28.0.3",
   "option_android_support_lib": "30.0.0",
@@ -26,7 +26,7 @@
   "option_android_splash_screens_landscape": "${options_dir}\\android\\splash\\landscape.png",
   "option_android_splash_screens_portrait": "${options_dir}\\android\\splash\\portrait.png",
   "option_android_splash_time": 0,
-  "option_android_launchscreen_fill": 0,
+  "option_android_launchscreen_fill": 2,
   "option_android_splashscreen_background_colour": 255,
   "option_android_tv_banner": "${base_options_dir}\\android\\tv_banner.png",
   "option_android_interpolate_pixels": false,

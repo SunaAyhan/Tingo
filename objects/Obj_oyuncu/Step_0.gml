@@ -20,10 +20,10 @@ if (image_yscale < 0) {
 	
 }
 if(keyboard_check(vk_nokey)){
-	if(lastPos == sprRightIdle){
+	/*if(lastPos == sprRightIdle){
 		image_xscale=-sprite_index_normal;}
 	else{
-		image_xscale=sprite_index_normal;}
+		image_xscale=sprite_index_normal;}*/
 	sprite_index= lastPos;
 }else{
 	/*count+=1;
@@ -34,52 +34,52 @@ if(keyboard_check(vk_nokey)){
 if(keyboard_check(vk_left)and ( tilemap_get_at_pixel(map_id, my_bbox_left-global.yurumehizix, bbox_bottom) and tilemap_get_at_pixel(map_id, my_bbox_left-global.yurumehizix, bbox_top)) != 0 and x>=0)
 {
 	x-=global.yurumehizix
-	image_xscale=sprite_index_normal
+	//image_xscale=sprite_index_normal
 	sprite_index= sprLeftWalk
 	lastPos = sprLeftIdle
 }else if(keyboard_check(vk_left)and ( tilemap_get_at_pixel(map_id, my_bbox_left-1, bbox_bottom) and tilemap_get_at_pixel(map_id, my_bbox_left-1, bbox_top)) != 0 and x>=0)
 {
 	x-=1
-	image_xscale=sprite_index_normal
+	//image_xscale=sprite_index_normal
 	sprite_index= sprLeftWalk
 	lastPos = sprLeftIdle
 }else if(keyboard_check(vk_right) and (tilemap_get_at_pixel(map_id, my_bbox_right+global.yurumehizix, bbox_bottom) and tilemap_get_at_pixel(map_id, my_bbox_right+global.yurumehizix, bbox_top)) != 0  and x<=room_width)
 {
 	x+=global.yurumehizix
-	image_xscale=-sprite_index_normal
+	//image_xscale=-sprite_index_normal
 	sprite_index= sprRightWalk
 	lastPos = sprRightIdle
 }else if(keyboard_check(vk_right) and (tilemap_get_at_pixel(map_id, my_bbox_right+1, bbox_bottom) and tilemap_get_at_pixel(map_id, my_bbox_right+1, bbox_top)) != 0  and x<=room_width)
 {
 	x+=1
-	image_xscale=-sprite_index_normal
+	//image_xscale=-sprite_index_normal
 	sprite_index= sprRightWalk
 	lastPos = sprRightIdle
 }
 if(keyboard_check(vk_up)and(tilemap_get_at_pixel(map_id, my_bbox_left, my_bbox_top-global.yurumehiziy) and tilemap_get_at_pixel(map_id, my_bbox_right, my_bbox_top-global.yurumehiziy)) != 0 and y>=0 )
 {
 	y-=global.yurumehiziy
-	image_xscale=sprite_index_normal
+	//image_xscale=sprite_index_normal
 	sprite_index= sprBackWalk
 	lastPos = sprBackIdle
 }else if(keyboard_check(vk_up)and(tilemap_get_at_pixel(map_id, my_bbox_left, my_bbox_top-1) and tilemap_get_at_pixel(map_id, my_bbox_right, my_bbox_top-1)) != 0 and y>=0 )
 {
 	y-=1
-	image_xscale=sprite_index_normal
+	//image_xscale=sprite_index_normal
 	sprite_index= sprBackWalk
 	lastPos = sprBackIdle
 }
 if(keyboard_check(vk_down)and (tilemap_get_at_pixel(map_id, my_bbox_left, my_bbox_bottom+global.yurumehiziy) and tilemap_get_at_pixel(map_id, my_bbox_right, my_bbox_bottom+global.yurumehiziy)) != 0 and y<= room_height)
 {
 	y+=global.yurumehiziy
-	image_xscale=sprite_index_normal
+	//image_xscale=sprite_index_normal
 	sprite_index= sprFrontWalk
 	lastPos = sprFrontIdle
 	
 }else if(keyboard_check(vk_down)and (tilemap_get_at_pixel(map_id, my_bbox_left, my_bbox_bottom+1) and tilemap_get_at_pixel(map_id, my_bbox_right, my_bbox_bottom+1)) != 0 and y<= room_height)
 {
 	y+=1
-	image_xscale=sprite_index_normal
+	//image_xscale=sprite_index_normal
 	sprite_index= sprFrontWalk
 	lastPos = sprFrontIdle
 	
