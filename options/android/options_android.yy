@@ -1,7 +1,7 @@
 {
   "option_android_sync_amazon": false,
   "option_android_display_name": "Tingo",
-  "option_android_version": "1.4.6",
+  "option_android_version": "1.4.9",
   "option_android_tools_from_version": false,
   "option_android_build_tools": "28.0.3",
   "option_android_support_lib": "30.0.0",
@@ -67,7 +67,7 @@
   "option_android_application_tag_inject": "",
   "option_android_google_apk_expansion": false,
   "option_android_google_licensing_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAowdcozxymaYouUFUVB9bTslcEyIcjUwmzUIsqNJhTmNAU20FeloglqGP6pD4PrvdXCyT81wNWsnsohtmkD3AWhM6h3f6yYTQE/e9Hb1upOtrWySU2OjlS5Qq6GgCYmPisXRfCgBSsBbHM4g52DomUBc1lsmOeuvaOC6QB6w3ips+QxPlqpx0fgpWpiWcrzSI/GyKVctS+kX1XYgZ5tLF/J+w+qdtV3ArIJK0DQGZRuEHfj3HNlwfdu0N72Y694do8K9VjfPsRuzrnpQOW2XBLwobR7shFtV7SDypWURxXHJaybJb2WECChPQH41ES0fF67J2zn+sq3lQmzvmTwuugQIDAQAB",
-  "option_android_tv_isgame": true,
+  "option_android_tv_isgame": false,
   "resourceVersion": "1.0",
   "name": "Android",
   "tags": [],
